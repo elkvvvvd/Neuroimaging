@@ -1,4 +1,4 @@
-# Neuroimaging
+# Neuroimaging, the Oddball paradigm
 My test projects on MNE-Python in field of  Neuroimaging.
 This project marks my first journey into MNE-Python, where I explore the
 "Oddball" paradigm to analyze how the human brain reacts to stimuli that deviate
